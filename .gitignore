@@ -1,0 +1,6 @@
+old/
+**/*.pdf
+notes/
+exam/
+hidden/
+.DS_Store
