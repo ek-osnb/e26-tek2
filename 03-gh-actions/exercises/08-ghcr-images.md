@@ -1,3 +1,9 @@
+---
+title: 08-ghcr-images
+sidebar_label: 08-ghcr-images
+sidebar_position: 9
+---
+
 # GitHub Container Registry (GHCR) Images
 
 ## Goal

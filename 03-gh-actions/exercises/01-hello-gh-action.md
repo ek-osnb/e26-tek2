@@ -1,3 +1,9 @@
+---
+title: 01-hello-gh-action
+sidebar_label: 01-hello-gh-action
+sidebar_position: 2
+---
+
 # Hello GitHub Actions
 
 ## Goal

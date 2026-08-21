@@ -1,3 +1,9 @@
+---
+title: 00-setup
+sidebar_label: 00-setup
+sidebar_position: 1
+---
+
 # Setup
 
 Throughout these exercises, we will be using the same Spring Boot application, where the endgoal is to dockerize the application as well as the database, using Docker Compose.

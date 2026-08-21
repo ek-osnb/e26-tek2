@@ -1,3 +1,9 @@
+---
+title: 05-docker-gh-action
+sidebar_label: 05-docker-gh-action
+sidebar_position: 6
+---
+
 # GitHub Actions: Testing a Dockerfile
 
 ## Goal

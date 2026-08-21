@@ -1,3 +1,9 @@
+---
+title: 06-docker-compose-env
+sidebar_label: 06-docker-compose-env
+sidebar_position: 7
+---
+
 # Using environment variables
 
 ## Goal:

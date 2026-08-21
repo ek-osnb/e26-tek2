@@ -1,3 +1,9 @@
+---
+title: 06-reusable-workflows
+sidebar_label: 06-reusable-workflows
+sidebar_position: 7
+---
+
 # GitHub Action: Reusable Workflows
 
 ## Goal

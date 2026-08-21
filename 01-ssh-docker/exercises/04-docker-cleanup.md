@@ -1,3 +1,9 @@
+---
+title: 04-docker-cleanup
+sidebar_label: 04-docker-cleanup
+sidebar_position: 5
+---
+
 # Docker: Cleaning up containers and images
 
 

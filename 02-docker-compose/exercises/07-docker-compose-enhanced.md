@@ -1,3 +1,9 @@
+---
+title: 07-docker-compose-enhanced
+sidebar_label: 07-docker-compose-enhanced
+sidebar_position: 8
+---
+
 # Docker compose: Enhancing the docker-compose setup
 
 ## Goal:

@@ -1,3 +1,9 @@
+---
+title: 08-dockerfile-maven
+sidebar_label: 08-dockerfile-maven
+sidebar_position: 9
+---
+
 # Dockerizing a Maven project
 
 This guide will walk you through the steps to create a Docker image for a simple Maven project. The project will be built using Maven and then packaged into a Docker container, allowing you to run it anywhere Docker is available.

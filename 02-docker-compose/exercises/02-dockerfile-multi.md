@@ -1,3 +1,9 @@
+---
+title: 02-dockerfile-multi
+sidebar_label: 02-dockerfile-multi
+sidebar_position: 3
+---
+
 # Docker: Multi-stage Dockerfile
 
 In the previous exercise, we created a `Dockerfile` for a Spring Boot application.

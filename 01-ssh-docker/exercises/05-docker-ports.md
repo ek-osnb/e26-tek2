@@ -1,3 +1,9 @@
+---
+title: 05-docker-ports
+sidebar_label: 05-docker-ports
+sidebar_position: 6
+---
+
 # Docker: Exposing Ports
 
 When running Docker containers, you may need to expose ports to allow communication between the container and the host machine or other containers. This is especially important for web applications and services.

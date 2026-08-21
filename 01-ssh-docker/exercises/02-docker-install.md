@@ -1,3 +1,9 @@
+---
+title: 02-docker-install
+sidebar_label: 02-docker-install
+sidebar_position: 3
+---
+
 # Docker Desktop installation guide
 
 This guide will help you install Docker Desktop on your machine (**MacOS**, **Windows**, or **Linux**).

@@ -1,3 +1,9 @@
+---
+title: 06-docker-exec
+sidebar_label: 06-docker-exec
+sidebar_position: 7
+---
+
 # Docker: Executing Commands in a Running Container
 
 Sometimes you may need to execute commands inside a running Docker container, without disturbing the running process. This can be useful for debugging, troubleshooting, or performing administrative tasks.

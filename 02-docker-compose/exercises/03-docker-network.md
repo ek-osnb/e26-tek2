@@ -1,3 +1,9 @@
+---
+title: 03-docker-network
+sidebar_label: 03-docker-network
+sidebar_position: 4
+---
+
 # Docker networking
 
 When running Docker containers, they run inside a lightweight, isolated environment. By default, each container has its own network namespace with its own IP address, routes, and network interfaces. To allow containers to communicate with each other or with the outside world, Docker provides several [networking modes](https://docs.docker.com/engine/network/).

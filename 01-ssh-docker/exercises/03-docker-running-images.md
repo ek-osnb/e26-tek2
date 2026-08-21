@@ -1,3 +1,9 @@
+---
+title: 03-docker-running-images
+sidebar_label: 03-docker-running-images
+sidebar_position: 4
+---
+
 # Docker: Running your first container
 
 In this guide, you will learn how to run your first container (Alpine Linux) using Docker.

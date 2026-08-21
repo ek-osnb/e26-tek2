@@ -1,3 +1,9 @@
+---
+title: 03-caching-dependencies
+sidebar_label: 03-caching-dependencies
+sidebar_position: 4
+---
+
 # GitHub action: Caching dependencies
 
 ## Goal

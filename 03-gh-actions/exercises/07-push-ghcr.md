@@ -1,3 +1,9 @@
+---
+title: 07-push-ghcr
+sidebar_label: 07-push-ghcr
+sidebar_position: 8
+---
+
 # GitHub actions: Push docker image to GitHub Container Registry (GHCR)
 
 ## Goal

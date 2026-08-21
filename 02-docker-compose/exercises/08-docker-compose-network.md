@@ -1,3 +1,9 @@
+---
+title: 08-docker-compose-network
+sidebar_label: 08-docker-compose-network
+sidebar_position: 9
+---
+
 # Docker Compose networking
 
 ## Goal:

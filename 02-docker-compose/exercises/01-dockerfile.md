@@ -1,3 +1,9 @@
+---
+title: 01-dockerfile
+sidebar_label: 01-dockerfile
+sidebar_position: 2
+---
+
 # Docker: Dockerfile
 
 A [`Dockerfile`](https://docs.docker.com/reference/dockerfile/) is a file that contains all the commands to build a Docker image. It contains all information needed to create a Docker container, including the base image, environment variables, and any dependencies required to run the application.

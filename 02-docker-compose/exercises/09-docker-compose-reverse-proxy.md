@@ -1,3 +1,9 @@
+---
+title: 09-docker-compose-reverse-proxy
+sidebar_label: 09-docker-compose-reverse-proxy
+sidebar_position: 10
+---
+
 # Docker compose: Adding a reverse proxy (optional exercise - draft)
 
 ## Goal:

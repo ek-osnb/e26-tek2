@@ -1,3 +1,9 @@
+---
+title: 01-generate-ssh-key
+sidebar_label: 01-generate-ssh-key
+sidebar_position: 2
+---
+
 # Create SSH Key
 
 This guide will help you generate a SSH key pair and use it with your GitHub account.

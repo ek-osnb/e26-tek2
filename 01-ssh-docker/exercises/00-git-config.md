@@ -1,3 +1,9 @@
+---
+title: 00-git-config
+sidebar_label: 00-git-config
+sidebar_position: 1
+---
+
 # Git init
 
 

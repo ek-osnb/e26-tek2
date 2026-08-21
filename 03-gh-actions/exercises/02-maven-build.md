@@ -1,3 +1,9 @@
+---
+title: 02-maven-build
+sidebar_label: 02-maven-build
+sidebar_position: 3
+---
+
 # GitHub action: Maven build
 
 ## Goal

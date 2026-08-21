@@ -1,3 +1,9 @@
+---
+title: 04-hash-pinning
+sidebar_label: 04-hash-pinning
+sidebar_position: 5
+---
+
 # GitHub actions: Hash pinning
 
 ## Goal

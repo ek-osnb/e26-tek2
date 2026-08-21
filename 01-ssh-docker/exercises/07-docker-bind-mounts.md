@@ -1,3 +1,9 @@
+---
+title: 07-docker-bind-mounts
+sidebar_label: 07-docker-bind-mounts
+sidebar_position: 8
+---
+
 # Docker: Bind mounts
 
 When we run containers, the filesystem is isolated from the host machine. This means that any changes made to the filesystem inside the container will not affect the host filesystem, and vice versa. However, there are times when you may want to share files between the host and the container. This is where bind mounts and volumes come into play.

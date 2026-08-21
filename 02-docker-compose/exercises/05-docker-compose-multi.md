@@ -1,3 +1,9 @@
+---
+title: 05-docker-compose-multi
+sidebar_label: 05-docker-compose-multi
+sidebar_position: 6
+---
+
 # Docker: Multiple services in docker compose
 
 So far we have only seen one service being run inside docker compose. In this exercise we will define two services, that can communicate with each other, and be started using a single command.
